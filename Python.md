@@ -1,0 +1,36 @@
+
+2026-07-22 23:29 
+# Basics
+
+### Data Types
+int, str, bool, float
+```
+age = 25                  # Integer (int)
+price = 19.99             # Floating-point number (float)
+name = "Alice"            # String (str)
+is_active = True          # Boolean (bool)``
+```
+### Arithmetic Ops
++,-,/, * ,%
+```
+addition = 5 + 3          # Result: 8
+division = 10 / 3         # Result: 3.3333... (always float)
+floor_division = 10 // 3  # Result: 3 (drops decimal part)
+modulus = 10 % 3          # Result: 1 (returns the remainder)
+exponent = 2 ** 3         # Result: 8 (2 raised to the power of 3)
+
+```
+### Input & Output
+print() , input()
+```
+# Output a message
+print("Hello, World!") 
+
+# Input always captures data as a string
+user_input = input("Enter your name: ") 
+
+# Type conversion turns strings into numbers
+user_age = int(input("Enter your age: ")) 
+
+```
+

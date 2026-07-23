@@ -53,3 +53,14 @@ else:
 
 ### Loops
 for,while
+```
+# Prints numbers from 0 to 4
+for i in range(5):
+    print(i)
+
+# Loops until a target value shifts
+count = 0
+while count < 3:
+    print("Looping...")
+    count += 1
+```

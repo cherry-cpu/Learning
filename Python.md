@@ -34,3 +34,21 @@ user_age = int(input("Enter your age: "))
 
 ```
 
+
+2026-07-23 22:36
+
+### Conditional Statements (Control Flow)
+if, else, elif
+
+```
+score = 85
+if score >= 90:
+	print("Grade: A")
+elif score >= 80:
+	print("Grade: B")
+else:
+	print("Grade: C")
+```
+
+### Loops
+for,while

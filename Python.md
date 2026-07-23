@@ -1,5 +1,6 @@
 
-2026-07-22 23:29 
+---
+# 2026-07-22 23:29 
 # Basics
 
 ### Data Types
@@ -34,8 +35,8 @@ user_age = int(input("Enter your age: "))
 
 ```
 
-
-2026-07-23 22:36
+---
+# 2026-07-23 22:36
 
 ### Conditional Statements (Control Flow)
 if, else, elif
